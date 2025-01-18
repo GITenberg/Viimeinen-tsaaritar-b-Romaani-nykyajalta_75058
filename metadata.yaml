@@ -1,0 +1,31 @@
+_repo: Viimeinen-tsaaritar-b-Romaani-nykyajalta_75058
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Elomaa, Vilho
+    gutenberg_agent_id: '41408'
+    url: http://www.gutenberg.org/2009/agents/41408
+    wikipedia: https://fi.wikipedia.org/wiki/Vilho_Elomaa
+creator:
+  author:
+    agent_name: Brockdorff, Gertrud v.
+    gutenberg_agent_id: '57803'
+    url: http://www.gutenberg.org/2009/agents/57803
+description: ''
+gutenberg_issued: '2025-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75058'
+language: fi
+pgterms:marc905: 20241022111001brockdorff
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Viimeinen tsaaritar : $b Romaani nykyajalta'
+url: http://www.gutenberg.org/ebooks/75058
