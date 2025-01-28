@@ -6,12 +6,17 @@ contributor:
     gutenberg_agent_id: '41408'
     url: http://www.gutenberg.org/2009/agents/41408
     wikipedia: https://fi.wikipedia.org/wiki/Vilho_Elomaa
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brockdorff, Gertrud v.
     gutenberg_agent_id: '57803'
     url: http://www.gutenberg.org/2009/agents/57803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75058#Viimeinen-tsaaritar-b-Romaani-nykyajalta
 gutenberg_issued: '2025-01-07'
 gutenberg_type: Text
 identifiers:
